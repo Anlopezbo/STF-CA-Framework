@@ -1,0 +1,22 @@
+# ====== Core scientific and machine learning dependencies ======
+numpy>=1.24.0
+scipy>=1.11.0
+matplotlib>=3.7.0
+tqdm>=4.66.0
+
+# ====== TensorFlow and Keras ======
+tensorflow>=2.15.0
+keras>=3.2.1
+tf_keras>=2.15.0
+
+# ====== Optional dependencies (for EEG processing and visualization) ======
+mne>=1.6.0
+
+# ====== Custom GCPDS repositories (optional; can be installed manually) ======
+# git+https://github.com/UN-GCPDS/python-gcpds.databases
+# git+https://github.com/UN-GCPDS/python-gcpds.visualizations.git
+# git+https://github.com/UN-GCPDS/python-gcpds.EEG_Tensorflow_models@Marcos-L-patch-1
+
+# ====== Development tools (optional) ======
+ipython
+jupyter

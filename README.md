@@ -1,5 +1,13 @@
 # EEG SHAP-style φ Pipeline (windowed FFT, band × time cells)
 
+> Developed by [Andrés Camilo López Boscán, MSc.](https://github.com/Anlopezbo)  
+[Andrés Marino Álvarez Meza, PhD.](https://github.com/amalvarezme)  
+César Germán Castellanos Dominguez, PhD.  
+> _Digital Signal Processing and Control Group_  | _Grupo de Control y Procesamiento Digital de Señales ([GCPDS](https://github.com/UN-GCPDS/))_  
+> _Universidad Nacional de Colombia sede Manizales_  
+
+----
+
 This repository computes **φ (phi) attributions** for EEG using a **windowed FFT** backend. Each attribution targets one of **16 cells** (4 frequency bands × 4 time windows). The math/logic is **unchanged** from the original script:
 
 - Windows: **CUT_TIMES = [0, 2, 2.5, 5, 7]** seconds (4 segments)
