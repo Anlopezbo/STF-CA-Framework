@@ -5,12 +5,12 @@ matplotlib>=3.7.0
 tqdm>=4.66.0
 
 # ====== TensorFlow and Keras ======
-tensorflow>=2.15.0
+tensorflow>=2.20.0
 keras>=3.2.1
-tf_keras>=2.15.0
+tf_keras>=2.20.0
 
 # ====== Optional dependencies (for EEG processing and visualization) ======
-mne>=1.6.0
+mne>=1.10.1
 
 # ====== Custom GCPDS repositories (optional; can be installed manually) ======
 # git+https://github.com/UN-GCPDS/python-gcpds.databases
