@@ -1,6 +1,7 @@
 # STF-CA-FRAMEWORK Pipeline (windowed FFT, band × time cells)
 
-> Developed by [Andrés Camilo López Boscán, MSc.](https://github.com/Anlopezbo)  
+> Developed by [Andrés Camilo López Boscán, MSc.](https://github.com/Anlopezbo)
+[Diego Armando Perez Rosero, PhD.](https://github.com/Daprosero)  
 [Andrés Marino Álvarez Meza, PhD.](https://github.com/amalvarezme)  
 César Germán Castellanos Dominguez, PhD.  
 > _Digital Signal Processing and Control Group_  | _Grupo de Control y Procesamiento Digital de Señales ([GCPDS](https://github.com/UN-GCPDS/))_  
